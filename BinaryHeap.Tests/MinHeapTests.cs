@@ -73,8 +73,12 @@ namespace BinaryHeap.Tests
             }
 
             Assert.That(minHeap.ExtractMin(), Is.EqualTo(1));
-            Assert.That(minHeap.Size, Is.EqualTo(9));
-            Assert.That(minHeap.Min, Is.EqualTo(2));
+            Assert.That(minHeap.ExtractMin(), Is.EqualTo(2));
+            Assert.That(minHeap.ExtractMin(), Is.EqualTo(3));
+            Assert.That(minHeap.ExtractMin(), Is.EqualTo(4));
+            Assert.That(minHeap.ExtractMin(), Is.EqualTo(5));
+            Assert.That(minHeap.Size, Is.EqualTo(5));
+            Assert.That(minHeap.Min, Is.EqualTo(6));
         }
 
         [Test]
