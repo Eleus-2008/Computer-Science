@@ -20,7 +20,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryHeap", "BinaryHeap\Bi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisjointSet", "DisjointSet\DisjointSet.csproj", "{08558A64-C122-41A9-8789-D193090B4C9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LIS", "LIS\LIS.csproj", "{6C9C4C83-629B-41AC-A59F-6B0D44B23B96}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestIncreasingSubsequence", "LongestIncreasingSubsequence\LongestIncreasingSubsequence.csproj", "{6C9C4C83-629B-41AC-A59F-6B0D44B23B96}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevenshteinDistance", "LevenshteinDistance\LevenshteinDistance.csproj", "{84156788-58BD-490A-A244-18E2FB3FF5AB}"
 EndProject
@@ -33,6 +33,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixedThreadPool.Tests", "FixedThreadPool.Tests\FixedThreadPool.Tests.csproj", "{F982ED0D-9FC6-466B-96E5-5946EFAECFB6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevenshteinDistance.Tests", "LevenshteinDistance.Tests\LevenshteinDistance.Tests.csproj", "{F75513AE-69DC-4365-B3CA-FDB3D0EAD64D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestIncreasingSubsequence.Tests", "LongestIncreasingSubsequence.Tests\LongestIncreasingSubsequence.Tests.csproj", "{C4459B54-1D1A-46A6-A745-648F0B93D597}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -106,5 +108,9 @@ Global
 		{F75513AE-69DC-4365-B3CA-FDB3D0EAD64D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F75513AE-69DC-4365-B3CA-FDB3D0EAD64D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F75513AE-69DC-4365-B3CA-FDB3D0EAD64D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4459B54-1D1A-46A6-A745-648F0B93D597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4459B54-1D1A-46A6-A745-648F0B93D597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4459B54-1D1A-46A6-A745-648F0B93D597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4459B54-1D1A-46A6-A745-648F0B93D597}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
