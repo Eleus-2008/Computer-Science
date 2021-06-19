@@ -32,6 +32,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixedThreadPool", "FixedThr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixedThreadPool.Tests", "FixedThreadPool.Tests\FixedThreadPool.Tests.csproj", "{F982ED0D-9FC6-466B-96E5-5946EFAECFB6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevenshteinDistance.Tests", "LevenshteinDistance.Tests\LevenshteinDistance.Tests.csproj", "{F75513AE-69DC-4365-B3CA-FDB3D0EAD64D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -100,5 +102,9 @@ Global
 		{F982ED0D-9FC6-466B-96E5-5946EFAECFB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F982ED0D-9FC6-466B-96E5-5946EFAECFB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F982ED0D-9FC6-466B-96E5-5946EFAECFB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F75513AE-69DC-4365-B3CA-FDB3D0EAD64D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F75513AE-69DC-4365-B3CA-FDB3D0EAD64D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F75513AE-69DC-4365-B3CA-FDB3D0EAD64D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F75513AE-69DC-4365-B3CA-FDB3D0EAD64D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
