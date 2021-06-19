@@ -1,40 +1,40 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{AD878269-3277-4FE3-8346-6E881FFE25AF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "Search algorithms\BinarySearch\BinarySearch.csproj", "{AD878269-3277-4FE3-8346-6E881FFE25AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionSort", "SelectionSort\SelectionSort.csproj", "{9A195259-642A-44EC-ACF8-4E21B0B26679}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionSort", "Sort algorithms\SelectionSort\SelectionSort.csproj", "{9A195259-642A-44EC-ACF8-4E21B0B26679}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSort", "QuickSort\QuickSort.csproj", "{E1B2268B-91E9-496B-9FA5-B8194336C2B6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSort", "Sort algorithms\QuickSort\QuickSort.csproj", "{E1B2268B-91E9-496B-9FA5-B8194336C2B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreadthFirstSearch", "BreadthFirstSearch\BreadthFirstSearch.csproj", "{1A8CD25F-39E3-44C5-8E2F-E378C1F8F643}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreadthFirstSearch", "Search algorithms\BreadthFirstSearch\BreadthFirstSearch.csproj", "{1A8CD25F-39E3-44C5-8E2F-E378C1F8F643}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DijkstrasAlgorithm", "DijkstrasAlgorithm\DijkstrasAlgorithm.csproj", "{DE79B536-A4B4-4A8F-83CB-59FD195C6496}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DijkstrasAlgorithm", "Search algorithms\DijkstrasAlgorithm\DijkstrasAlgorithm.csproj", "{DE79B536-A4B4-4A8F-83CB-59FD195C6496}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tree", "Tree\Tree.csproj", "{BD1E018C-2190-4848-830B-3CF04B74B5F1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackWithMax", "StackWithMax\StackWithMax.csproj", "{778BBBF1-35D3-456B-BC6B-AE0501873EE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryHeap", "BinaryHeap\BinaryHeap.csproj", "{FCB6B884-38AE-4680-83B7-139FCEC2D0B7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryHeap", "Data structures\BinaryHeap\BinaryHeap.csproj", "{FCB6B884-38AE-4680-83B7-139FCEC2D0B7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisjointSet", "DisjointSet\DisjointSet.csproj", "{08558A64-C122-41A9-8789-D193090B4C9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestIncreasingSubsequence", "LongestIncreasingSubsequence\LongestIncreasingSubsequence.csproj", "{6C9C4C83-629B-41AC-A59F-6B0D44B23B96}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestIncreasingSubsequence", "Dynamic programming\LongestIncreasingSubsequence\LongestIncreasingSubsequence.csproj", "{6C9C4C83-629B-41AC-A59F-6B0D44B23B96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevenshteinDistance", "LevenshteinDistance\LevenshteinDistance.csproj", "{84156788-58BD-490A-A244-18E2FB3FF5AB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevenshteinDistance", "Dynamic programming\LevenshteinDistance\LevenshteinDistance.csproj", "{84156788-58BD-490A-A244-18E2FB3FF5AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knapsack", "Knapsack\Knapsack.csproj", "{715D8F6D-294A-4403-8B2F-7E9817234046}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knapsack", "Dynamic programming\Knapsack\Knapsack.csproj", "{715D8F6D-294A-4403-8B2F-7E9817234046}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryHeap.Tests", "BinaryHeap.Tests\BinaryHeap.Tests.csproj", "{B3CF0D9C-E05A-40C0-A6E4-F471E7479784}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryHeap.Tests", "Data structures\BinaryHeap.Tests\BinaryHeap.Tests.csproj", "{B3CF0D9C-E05A-40C0-A6E4-F471E7479784}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixedThreadPool", "FixedThreadPool\FixedThreadPool.csproj", "{B1655955-48EC-4BFC-BBC5-4D071AEB9106}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixedThreadPool", "Multithreading\FixedThreadPool\FixedThreadPool.csproj", "{B1655955-48EC-4BFC-BBC5-4D071AEB9106}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixedThreadPool.Tests", "FixedThreadPool.Tests\FixedThreadPool.Tests.csproj", "{F982ED0D-9FC6-466B-96E5-5946EFAECFB6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixedThreadPool.Tests", "Multithreading\FixedThreadPool.Tests\FixedThreadPool.Tests.csproj", "{F982ED0D-9FC6-466B-96E5-5946EFAECFB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevenshteinDistance.Tests", "LevenshteinDistance.Tests\LevenshteinDistance.Tests.csproj", "{F75513AE-69DC-4365-B3CA-FDB3D0EAD64D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevenshteinDistance.Tests", "Dynamic programming\LevenshteinDistance.Tests\LevenshteinDistance.Tests.csproj", "{F75513AE-69DC-4365-B3CA-FDB3D0EAD64D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestIncreasingSubsequence.Tests", "LongestIncreasingSubsequence.Tests\LongestIncreasingSubsequence.Tests.csproj", "{C4459B54-1D1A-46A6-A745-648F0B93D597}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestIncreasingSubsequence.Tests", "Dynamic programming\LongestIncreasingSubsequence.Tests\LongestIncreasingSubsequence.Tests.csproj", "{C4459B54-1D1A-46A6-A745-648F0B93D597}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knapsack.Tests", "Knapsack.Tests\Knapsack.Tests.csproj", "{EBE8B10B-C34D-4A02-B5BD-9757117B213D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knapsack.Tests", "Dynamic programming\Knapsack.Tests\Knapsack.Tests.csproj", "{EBE8B10B-C34D-4A02-B5BD-9757117B213D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data structures", "Data structures", "{ABF26986-1901-4268-B8DD-338445E9B7CC}"
 EndProject
@@ -43,6 +43,8 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dynamic programming", "Dynamic programming", "{D89BA620-8EAE-44B8-B34C-7A10142DCFA3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Multithreading", "Multithreading", "{3CB3F673-E6D4-4020-83FC-30C9DFE2C114}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sort algorithms", "Sort algorithms", "{4FB659B6-2276-46C6-8803-E0E657D623E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -127,8 +129,6 @@ Global
 		{AD878269-3277-4FE3-8346-6E881FFE25AF} = {58A98278-B13C-4F7A-8174-E9C73E8B9C78}
 		{1A8CD25F-39E3-44C5-8E2F-E378C1F8F643} = {58A98278-B13C-4F7A-8174-E9C73E8B9C78}
 		{DE79B536-A4B4-4A8F-83CB-59FD195C6496} = {58A98278-B13C-4F7A-8174-E9C73E8B9C78}
-		{E1B2268B-91E9-496B-9FA5-B8194336C2B6} = {58A98278-B13C-4F7A-8174-E9C73E8B9C78}
-		{9A195259-642A-44EC-ACF8-4E21B0B26679} = {58A98278-B13C-4F7A-8174-E9C73E8B9C78}
 		{715D8F6D-294A-4403-8B2F-7E9817234046} = {D89BA620-8EAE-44B8-B34C-7A10142DCFA3}
 		{EBE8B10B-C34D-4A02-B5BD-9757117B213D} = {D89BA620-8EAE-44B8-B34C-7A10142DCFA3}
 		{84156788-58BD-490A-A244-18E2FB3FF5AB} = {D89BA620-8EAE-44B8-B34C-7A10142DCFA3}
@@ -137,5 +137,7 @@ Global
 		{C4459B54-1D1A-46A6-A745-648F0B93D597} = {D89BA620-8EAE-44B8-B34C-7A10142DCFA3}
 		{B1655955-48EC-4BFC-BBC5-4D071AEB9106} = {3CB3F673-E6D4-4020-83FC-30C9DFE2C114}
 		{F982ED0D-9FC6-466B-96E5-5946EFAECFB6} = {3CB3F673-E6D4-4020-83FC-30C9DFE2C114}
+		{9A195259-642A-44EC-ACF8-4E21B0B26679} = {4FB659B6-2276-46C6-8803-E0E657D623E4}
+		{E1B2268B-91E9-496B-9FA5-B8194336C2B6} = {4FB659B6-2276-46C6-8803-E0E657D623E4}
 	EndGlobalSection
 EndGlobal
